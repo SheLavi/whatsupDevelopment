@@ -11,3 +11,7 @@ Author: Lavanya
 4.Attachments (Image, Audio, video) code
 
 Hiding the last seen
+
+Adding the audio feature
+
+Adding the video feature
